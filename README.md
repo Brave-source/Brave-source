@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Brave-source
 - 👀 I’m interested in Web development
-- 🌱 I’m currently a full stack Web developer (React, Node, Python, Typescript)
+- 🌱 I’m currently a frontend Web developer (Html, CSS, SCSS, Tailwind CSS, Javascript, Typescript and ReactJS)
+-    I'm also working towards becoming a fullstack, currently learning (NodeJs, Express and Python)
 - 💞️ I’m looking to collaborate on Both ends in web development
 - 📫 How to reach me: Email: eebiyenrin@gmail.com/ Phone: +2347062608896
 
